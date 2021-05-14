@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ABHI1621/abhi1621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha </h1>
 <h3 align="center">A passionate Software Developer from India</h3>
