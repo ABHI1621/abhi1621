@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha </h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer from Bangalore India </h3>
 
 - 📫 How to reach me **abhishek.jha1831@gmail.com**
 
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1621&show_icons=true&locale=en" alt="abhi1621" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1621&" alt="abhi1621" /></p>
+
