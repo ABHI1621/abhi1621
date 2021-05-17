@@ -21,7 +21,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1621&" alt="abhi1621" /></p>
 
 ***
-# 5. Competitive Programming Profile
+
+# Competitive Programming Profile
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ABHI1621)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/abhi1621/)
@@ -29,7 +30,7 @@
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/abhi1621)
 [![Topcoder](https://img.shields.io/badge/-Topcoder-ffff00?style=flat&labelColor=ffff00&logo=Topcoder&logoColor=white)](https://www.topcoder.com/members/abhi1621/)
 
-#  6. Social Media Profile
+#   Social Media Profile
 
 
  <a href="https://twitter.com/abhi1621_" title='Twitter'>
