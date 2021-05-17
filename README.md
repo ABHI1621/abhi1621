@@ -31,7 +31,7 @@
     <img align="left" alt="Abhishek Jha " src="https://img.icons8.com/color/32/000000/linkedin.png" />
 </a>
 
-<a href="https://www.instagram.com/abhishek.jha1831/ title='Instagram'>
+<a href="https://www.instagram.com/abhishek.jha1831/" title='Instagram'>
     <img align="left" alt="Abhishek Jha " src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />
 </a>
 
